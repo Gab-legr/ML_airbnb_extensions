@@ -1,0 +1,16 @@
+n_vienna_labels,Training data,F1 reranked
+0,3 source cities + n Vienna listings,0.46688516732987495
+50,3 source cities + n Vienna listings,0.4416790339201328
+50,n Vienna listings only,0.3970353931444246
+200,3 source cities + n Vienna listings,0.4652083947209147
+200,n Vienna listings only,0.47058159754628937
+500,3 source cities + n Vienna listings,0.4896459460428959
+500,n Vienna listings only,0.4811643030942669
+1000,3 source cities + n Vienna listings,0.5032412841030287
+1000,n Vienna listings only,0.5041556532437295
+2000,3 source cities + n Vienna listings,0.5286492162976875
+2000,n Vienna listings only,0.5276540499789406
+4000,3 source cities + n Vienna listings,0.5461975489959566
+4000,n Vienna listings only,0.5521552534000742
+6069,3 source cities + n Vienna listings,0.5634524447064249
+6069,n Vienna listings only,0.5639936898297608

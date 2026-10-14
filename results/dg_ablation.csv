@@ -1,0 +1,20 @@
+Setting,City,F1 raw,F1 reranked
+"Pooled, raw features",Paris,0.4081338416989805,0.4461472028200939
+"Pooled, raw features",Rome,0.38899477553959927,0.4249846138086124
+"Pooled, raw features",Madrid,0.4556038360201493,0.5045098106344563
+"Pooled, raw features",Vienna,0.43737900680214503,0.46259171459876547
++ domain weighting,Paris,0.42992821537661996,0.45409049732205886
++ domain weighting,Rome,0.3844317205255951,0.4255423119582378
++ domain weighting,Madrid,0.447805432278749,0.5060894240295253
++ domain weighting,Vienna,0.4280825640548146,0.4622134745719634
++ per-city standardisation (final),Paris,0.44732217526191104,0.45359810729169286
++ per-city standardisation (final),Rome,0.43310016692644243,0.4449278752468227
++ per-city standardisation (final),Madrid,0.4954081997359553,0.5352147784733466
++ per-city standardisation (final),Vienna,0.4671266133032497,0.4640185041802205
+Paris only (naive),Rome,0.3747880757040637,0.39010867281251493
+Paris only (naive),Madrid,0.4765722278802913,0.5066666729238133
+Paris only (naive),Vienna,0.439073782000003,0.4354435789669571
+In-domain CV (upper bound),Paris,0.5537418748905348,
+In-domain CV (upper bound),Rome,0.5819241631194263,
+In-domain CV (upper bound),Madrid,0.6804604086134897,
+In-domain CV (upper bound),Vienna,0.6185602554672961,

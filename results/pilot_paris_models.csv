@@ -1,0 +1,4 @@
+Model,F1-macro
+Random forest (classes),0.5498532773529499
+HistGradientBoosting (classes),0.5565241834545053
+HistGradientBoosting (log-price regression -> quartiles),0.5409844859015918
